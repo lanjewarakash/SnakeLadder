@@ -9,4 +9,3 @@ public class UC2 {
         System.out.println("current position dice is:"+diceRoll);
     }
 }
- 
